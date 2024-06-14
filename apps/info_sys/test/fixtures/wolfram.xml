@@ -1,0 +1,312 @@
+<queryresult success="true" error="false" xml:space="preserve" numpods="17" datatypes="AdministrativeDivision,Book,Bridge,Building,City,Company,Country,GivenName,HistoricalPeriod,Internet,Lake,Language,Mountain,Movie,Ocean,River,Surname,Translation,Word" timedout="" timedoutpods="" timing="2.52" parsetiming="0.194" parsetimedout="false" recalculate="" id="MSP57191h7133ce01d80cd400001f70f4dig1248a71" host="https://www6b3.wolframalpha.com" server="6" related="https://www6b3.wolframalpha.com/api/v1/relatedQueries.jsp?id=MSPa57201h7133ce01d80cd400002e9ihc9di28i36ih7167914177805443390" version="2.6" inputstring="what is elixir">
+ <pod title="Input interpretation" scanner="Identity" id="Input" position="100" error="false" numsubpods="1">
+  <subpod title="">
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57211h7133ce01d80cd40000257071d3dgb81f9c?MSPStoreType=image/gif&amp;s=6" alt="elixir (English word)" title="elixir (English word)" width="139" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>elixir (English word)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Definitions" scanner="Data" id="Definition:WordData" position="200" error="false" numsubpods="1" primary="true">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57221h7133ce01d80cd4000018567hf1iacbg9g2?MSPStoreType=image/gif&amp;s=6" alt="1 | noun | a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste 2 | noun | hypothetical substance that the alchemists believed to be capable of changing base metals into gold 3 | noun | a substance believed to cure all ills" title="1 | noun | a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste 2 | noun | hypothetical substance that the alchemists believed to be capable of changing base metals into gold 3 | noun | a substance believed to cure all ills" width="546" height="137" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>1 | noun | a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste
+2 | noun | hypothetical substance that the alchemists believed to be capable of changing base metals into gold
+3 | noun | a substance believed to cure all ills</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="American pronunciation" scanner="Data" id="Pronunciation:WordData" position="300" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57231h7133ce01d80cd400000f0dfb789a1hfgf9?MSPStoreType=image/gif&amp;s=6" alt="uhl'ikser (IPA: əlˈɪksɝ)" title="uhl'ikser (IPA: əlˈɪksɝ)" width="130" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>uhl'ikser (IPA: əlˈɪksɝ)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Hyphenation" scanner="Data" id="Hyphenation:WordData" position="400" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57241h7133ce01d80cd40000120db7b9idhc9285?MSPStoreType=image/gif&amp;s=6" alt="e-lix-ir (6 letters | 3 syllables)" title="e-lix-ir (6 letters | 3 syllables)" width="191" height="19" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>e-lix-ir (6 letters | 3 syllables)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="First known use in English" scanner="Data" id="FirstRecordYear:WordData" position="500" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>HistoricalPeriodData</microsource>
+    <microsource>WordData</microsource>
+   </microsources>
+   <datasources>
+    <datasource>TheWikimediaFoundationIncWikipedia</datasource>
+   </datasources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57251h7133ce01d80cd400002i522a0b7c2e67ge?MSPStoreType=image/gif&amp;s=6" alt="1266 (High Middle ages) (758 years ago)" title="1266 (High Middle ages) (758 years ago)" width="239" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>1266 (High Middle ages) (758 years ago)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Word frequency history" scanner="Data" id="BookMatchFrequency:WordData" position="700" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57261h7133ce01d80cd4000039ag9ac319i62e5e?MSPStoreType=image/gif&amp;s=6" alt="Word frequency history" title="" width="410" height="124" type="TimeSeriesPlot_1" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext/>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+  <states count="2">
+   <statelist count="2" value="Linear scale" delimiters="">
+    <state name="Linear scale" input="BookMatchFrequency:WordData__Linear scale"/>
+    <state name="Log scale" input="BookMatchFrequency:WordData__Log scale"/>
+   </statelist>
+   <statelist count="2" value="Binned" delimiters="">
+    <state name="Binned" input="BookMatchFrequency:WordData__Binned"/>
+    <state name="Raw" input="BookMatchFrequency:WordData__Raw"/>
+   </statelist>
+  </states>
+  <definitions count="1">
+   <definition word="Word frequency history" desc="based on a Google Books sample of one million books in English; Michel, J.-B., Y. K. Shen, A. P. Aiden, A. Veres, M. K. Gray, The Google Books Team, J. P. Pickett, D. Hoiberg, D. Clancy, P. Norvig, J. Orwant, S. Pinker, M. A. Nowak, and E. L. Aiden. &quot;Quantitative Analysis of Culture Using Millions of Digitized Books.&quot; Science 331 (2011)"/>
+  </definitions>
+ </pod>
+ <pod title="Inflected form" scanner="Data" id="InflectedForms:WordData" position="800" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57271h7133ce01d80cd400004h634b63eihh5357?MSPStoreType=image/gif&amp;s=6" alt="elixirs" title="elixirs" width="39" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>elixirs</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Synonyms" scanner="Data" id="Synonyms:WordData" position="900" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57281h7133ce01d80cd4000044ccbd55c92a2b42?MSPStoreType=image/gif&amp;s=6" alt="philosopher's stone | philosophers' stone" title="philosopher's stone | philosophers' stone" width="271" height="19" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>philosopher's stone | philosophers' stone</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+  <states count="1">
+   <state name="Show synonym network" input="Synonyms:WordData__Show synonym network"/>
+  </states>
+ </pod>
+ <pod title="Narrower terms" scanner="Data" id="Hyponym:WordData" position="1000" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57291h7133ce01d80cd40000144691haf87i542d?MSPStoreType=image/gif&amp;s=6" alt="elixir of life" title="elixir of life" width="75" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>elixir of life</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Broader terms" scanner="Data" id="Hypernym:WordData" position="1100" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57301h7133ce01d80cd400003b7d69555h2e759e?MSPStoreType=image/gif&amp;s=6" alt="liquid | substance | catholicon | cure-all | nostrum | panacea | potion (total: 7)" title="liquid | substance | catholicon | cure-all | nostrum | panacea | potion (total: 7)" width="532" height="40" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>liquid | substance | catholicon | cure-all | nostrum | panacea | potion (total: 7)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+  <states count="1">
+   <statelist count="2" value="Meanings combined" delimiters="">
+    <state name="Meanings divided" input="Hypernym:WordData__Meanings divided"/>
+    <state name="Meanings combined" input="Hypernym:WordData__Meanings combined"/>
+   </statelist>
+  </states>
+ </pod>
+ <pod title="Rhymes" scanner="Data" id="Rhyme:WordData" position="1200" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57311h7133ce01d80cd400002g2gh2ghce1e7hf1?MSPStoreType=image/gif&amp;s=6" alt="fixer | mixer (based on typical American pronunciation)" title="fixer | mixer (based on typical American pronunciation)" width="212" height="46" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>fixer | mixer
+(based on typical American pronunciation)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+  <states count="1">
+   <statelist count="4" value="Sorted alphabetically" delimiters="">
+    <state name="Sorted alphabetically" input="Rhyme:WordData__Sorted alphabetically"/>
+    <state name="Sorted by length" input="Rhyme:WordData__Sorted by length"/>
+    <state name="Sorted by syllables" input="Rhyme:WordData__Sorted by syllables"/>
+    <state name="Sorted by frequency" input="Rhyme:WordData__Sorted by frequency"/>
+   </statelist>
+  </states>
+ </pod>
+ <pod title="Lexically close words" scanner="Data" id="LexicallyCloseWords:WordData" position="1300" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57321h7133ce01d80cd40000594e154h848g7i98?MSPStoreType=image/gif&amp;s=6" alt="elicit" title="elicit" width="31" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>elicit</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+  <states count="1">
+   <statelist count="2" value="Up to 2-letter difference" delimiters="">
+    <state name="Up to 2-letter difference" input="LexicallyCloseWords:WordData__Up to 2-letter difference"/>
+    <state name="Up to 3-letter difference" input="LexicallyCloseWords:WordData__Up to 3-letter difference"/>
+   </statelist>
+  </states>
+ </pod>
+ <pod title="Anagrams" scanner="Data" id="Anagram:WordData" position="1400" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57331h7133ce01d80cd400005ch8cdg7ba0c95gi?MSPStoreType=image/gif&amp;s=6" alt="(none among common words)" title="(none among common words)" width="200" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>(none among common words)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Translations" scanner="Data" id="ManyTranslations:TranslationData" position="1500" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>CountryData</microsource>
+    <microsource>LanguageData</microsource>
+    <microsource>TranslationData</microsource>
+   </microsources>
+   <datasources>
+    <datasource>Ethnologue</datasource>
+    <datasource>ISO6393RA</datasource>
+   </datasources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57341h7133ce01d80cd4000059103d4f61gcf423?MSPStoreType=image/gif&amp;s=6" alt="German: | Elixier (general) Spanish: | elixir (general) French: | élixir (general) Portuguese: | elixir (general) Japanese: | エリキシル剤 (common noun)" title="German: | Elixier (general) Spanish: | elixir (general) French: | élixir (general) Portuguese: | elixir (general) Japanese: | エリキシル剤 (common noun)" width="269" height="107" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>German: | Elixier (general)
+Spanish: | elixir (general)
+French: | élixir (general)
+Portuguese: | elixir (general)
+Japanese: | エリキシル剤 (common noun)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Grid"/>
+  </expressiontypes>
+  <states count="1">
+   <state name="More" input="ManyTranslations:TranslationData__More"/>
+  </states>
+ </pod>
+ <pod title="Other notable uses" scanner="Data" id="Entities:WordData" position="1600" error="false" numsubpods="1">
+  <subpod title="Cities">
+   <microsources>
+    <microsource>CityData</microsource>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57351h7133ce01d80cd4000021f0c81g7767584h?MSPStoreType=image/gif&amp;s=6" alt="Elixir (Honduras, 3079 people)" title="Elixir (Honduras, 3079 people)" width="156" height="19" type="Default" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>Elixir (Honduras, 3079 people)</plaintext>
+  </subpod>
+  <expressiontypes count="15">
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+   <expressiontype name="Default"/>
+  </expressiontypes>
+ </pod>
+ <pod title="Crossword puzzle clues" scanner="Data" id="NYTCrosswordPuzzleClues:WordData" position="1700" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <datasources>
+    <datasource>XWordInfo</datasource>
+   </datasources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57361h7133ce01d80cd400005g6gfbc7136dg13c?MSPStoreType=image/gif&amp;s=6" alt="Alchemic mixture | Alchemist's concoction | Alchemist's life prolonger | Alchemist's potion | Cure-all | Donizetti's &quot;The _____ of Love&quot; | Drink said to prolong life | Magical drink | Medicine show purchase | Medicine that's not all it's promised to be | Miracle drink | ... (total: 16) (based on all New York Times crossword puzzles 1994 to 2009)" title="Alchemic mixture | Alchemist's concoction | Alchemist's life prolonger | Alchemist's potion | Cure-all | Donizetti's &quot;The _____ of Love&quot; | Drink said to prolong life | Magical drink | Medicine show purchase | Medicine that's not all it's promised to be | Miracle drink | ... (total: 16) (based on all New York Times crossword puzzles 1994 to 2009)" width="545" height="106" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>Alchemic mixture | Alchemist's concoction | Alchemist's life prolonger | Alchemist's potion | Cure-all | Donizetti's "The _____ of Love" | Drink said to prolong life | Magical drink | Medicine show purchase | Medicine that's not all it's promised to be | Miracle drink | ... (total: 16)
+(based on all New York Times crossword puzzles 1994 to 2009)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+  <states count="2">
+   <state name="Less" input="NYTCrosswordPuzzleClues:WordData__Less"/>
+   <state name="More" input="NYTCrosswordPuzzleClues:WordData__More"/>
+  </states>
+ </pod>
+ <pod title="Scrabble score" scanner="Data" id="ScrabbleScore:WordData" position="1800" error="false" numsubpods="1">
+  <subpod title="">
+   <microsources>
+    <microsource>WordData</microsource>
+   </microsources>
+   <img src="https://www6b3.wolframalpha.com/Calculate/MSP/MSP57371h7133ce01d80cd4000017bh3iag1c990be2?MSPStoreType=image/gif&amp;s=6" alt="13 (International English) | 13 (North American English)" title="13 (International English) | 13 (North American English)" width="394" height="19" type="Grid" themes="1,2,3,4,5,6,7,8,9,10,11,12" colorinvertable="true" contenttype="image/gif"/>
+   <plaintext>13 (International English) | 13 (North American English)</plaintext>
+  </subpod>
+  <expressiontypes count="1">
+   <expressiontype name="Default"/>
+  </expressiontypes>
+ </pod>
+ <assumptions count="1">
+  <assumption type="MultiClash" word="" template="Assuming ${word1} is referring to ${desc1}. Use &quot;${word2}&quot; as ${desc2}. Use &quot;${word3}&quot; as ${desc3}. Use &quot;${word4}&quot; as ${desc4}. Use &quot;${word5}&quot; as ${desc5}." count="5">
+   <value name="Word" word="the input" desc="a word" input="*MC.%7E-_*Word-"/>
+   <value name="Company" word="elixir" desc="a company" input="*MC.%7E-_*Company-"/>
+   <value name="FictionalCharacter" word="elixir" desc=" referring to a fictional character" input="*MC.%7E-_*FictionalCharacter-"/>
+   <value name="ProgrammingLanguage" word="elixir" desc="a programming language" input="*MC.%7E-_*ProgrammingLanguage-"/>
+   <value name="City" word="elixir" desc="a city" input="*MC.%7E-_*City-"/>
+  </assumption>
+ </assumptions>
+ <sources count="19">
+  <source url="https://www6b3.wolframalpha.com/sources/AdministrativeDivisionDataSourceInformationNotes.html" text="Administrative division data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/BookDataSourceInformationNotes.html" text="Book data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/BridgeDataSourceInformationNotes.html" text="Bridge data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/BuildingDataSourceInformationNotes.html" text="Building data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/CityDataSourceInformationNotes.html" text="City data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/CompanyDataSourceInformationNotes.html" text="Company data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/CountryDataSourceInformationNotes.html" text="Country data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/GivenNameDataSourceInformationNotes.html" text="Given name data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/HistoricalPeriodDataSourceInformationNotes.html" text="Historical period data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/InternetDataSourceInformationNotes.html" text="Internet data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/LakeDataSourceInformationNotes.html" text="Lake data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/LanguageDataSourceInformationNotes.html" text="Language data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/MountainDataSourceInformationNotes.html" text="Mountain data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/MovieDataSourceInformationNotes.html" text="Movie data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/OceanDataSourceInformationNotes.html" text="Ocean data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/RiverDataSourceInformationNotes.html" text="River data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/SurnameDataSourceInformationNotes.html" text="Surname data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/TranslationDataSourceInformationNotes.html" text="Translation data"/>
+  <source url="https://www6b3.wolframalpha.com/sources/WordDataSourceInformationNotes.html" text="Word data"/>
+ </sources>
+</queryresult>

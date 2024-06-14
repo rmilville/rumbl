@@ -1,0 +1,10 @@
+<h1>Listing Users</h1>
+
+<table>
+    <%= for user <- @users do %>
+        <tr>
+            <td><.user user={user} /></td>
+            <td><.link href={~p"/users/#{user}"}>Show User</.link></td>
+        </tr>
+    <% end %>>
+</table>

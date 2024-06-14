@@ -1,0 +1,13 @@
+<h1>New User</h1>
+
+<.form
+    for={@form}
+    phx-change="Create User"
+    phx-submit="save"
+    action={~p"/users/"}
+>
+    <.input field={@form[:name]} placeholder="Name" />
+    <.input field={@form[:username]} placeholder="Username" />
+    <.input field={@form[:password]} placeholder="Password" />
+    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded m-1">Create User</button>
+</.form>
