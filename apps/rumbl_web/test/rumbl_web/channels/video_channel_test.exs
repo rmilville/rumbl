@@ -1,13 +1,22 @@
 defmodule RumblWeb.Channels.VideoChannelTest do
-  use RumblWeb.ChannelCase
+  use RumblWeb.ChannelCase, async: false
   import RumblWeb.TestHelpers
 
   setup do
     user = insert_user(name: "tester")
+    insert_user(username: "Wolfram", password: "supersecret")
     video = insert_video(user, title: "test video")
     token = Phoenix.Token.sign(@endpoint, "user socket", user.id)
 
     {:ok, socket} = connect(RumblWeb.UserSocket, %{"token" => token})
+
+    on_exit(fn ->
+      for pid <- RumblWeb.Presence.fetchers_pids() do
+        ref = Process.monitor(pid)
+        assert_receive {:DOWN, ^ref, _, _, _}, 1000
+      end
+    end)
+
     {:ok, socket: socket, user: user, video: video}
   end
 
@@ -30,27 +39,22 @@ defmodule RumblWeb.Channels.VideoChannelTest do
     assert_broadcast("new_annotation", %{})
   end
 
-#  test "new annotations triggers InfoSys", %{socket: socket, video: vid} do
-#    insert_user(
-#      username: "worlfram",
-#      password: "supersecret"
-#    )
-#
-#    {:ok, _, socket} = subscribe_and_join(socket, "videos:#{vid.id}", %{})
-#
- #   ref = push(socket, "new_annotation", %{body: "what is elixir", at: 123})
-#
- #   assert_reply(ref, :ok, %{})
-#
- #   assert_broadcast("new_annotation", %{body: "what is elixir", at: 123})
-#
- #   text = """
-#1 | noun | a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste
-#2 | noun | hypothetical substance that the alchemists believed to be capable of changing base metals into gold
-#3 | noun | a substance believed to cure all ills\
-#"""
-#
-#    assert_broadcast("new_annotation", %{body: text}, at: 123)
-#  end
+  test "new annotations triggers InfoSys", %{socket: socket, video: vid} do
+
+    {:ok, _, socket} = subscribe_and_join(socket, "videos:#{vid.id}", %{})
+    ref = push(socket, "new_annotation", %{body: "what is elixir", at: 123})
+
+    assert_reply(ref, :ok, %{})
+
+    assert_broadcast("new_annotation", %{body: "what is elixir", at: 123})
+
+    text = """
+1 | noun | a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste
+2 | noun | hypothetical substance that the alchemists believed to be capable of changing base metals into gold
+3 | noun | a substance believed to cure all ills\
+"""
+
+    assert_broadcast("new_annotation", %{body: text, at: 123})
+  end
 
 end
